@@ -1,0 +1,98 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome]
+	Total Regions: 1
+	Total Region Length: 1905333
+Analyzing contigs...
+CONTIG: contig_173 (8013bp)
+Best alignment score: 1518.0 (LEN: 1518, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 1518.0, number of alignments: 1, unaligned bases: 6495
+		This contig is partially unaligned. (Aligned 1518 out of 8013 non-N bases (18.94%))
+		Alignment: 672771 674288 | 6492 8009 | 1518 1518 | 100.0 | Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome contig_173
+		Unaligned bases: 1 to 6491 (6491)
+		Unaligned bases: 8010 to 8013 (4)
+
+CONTIG: contig_21 (3765bp)
+Best alignment score: 949.0 (LEN: 949, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 949.0, number of alignments: 1, unaligned bases: 2816
+		This contig is partially unaligned. (Aligned 949 out of 3765 non-N bases (25.21%))
+		Alignment: 474414 475362 | 2381 3329 | 949 949 | 100.0 | Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome contig_21
+		Unaligned bases: 1 to 2380 (2380)
+		Unaligned bases: 3330 to 3765 (436)
+
+CONTIG: contig_381 (77458bp)
+Best alignment score: 887.0 (LEN: 890, IDY: 99.66), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 887.0, number of alignments: 1, unaligned bases: 76568
+		This contig is partially unaligned. (Aligned 890 out of 77458 non-N bases (1.15%))
+		Alignment: 866515 867407 | 76541 77430 | 893 890 | 99.66 | Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome contig_381
+		Unaligned bases: 1 to 76540 (76540)
+		Unaligned bases: 77431 to 77458 (28)
+
+CONTIG: contig_76 (1890766bp)
+Best alignment score: 1243022.7 (LEN: 1244267, IDY: 99.90), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			The best set is below. Score: 1888600.7, number of alignments: 4, unaligned bases: 0
+		This contig is misassembled.
+			Real Alignment 1: 1426116 1905333 | 1 478865 | 479218 478865 | 99.9 | Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome contig_76
+			  Not a misassembly [linear representation of circular genome] between these two alignments
+			Real Alignment 2: 1 39654 | 478866 518503 | 39654 39638 | 99.9 | Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome contig_76
+			  Overlap between these two alignments (local misassembly). Inconsistency = -925
+			Excluding internal overlap of size 1 between Alignment 3 and 4: 38730 166829 | 518504 646500 | 128100 127997 --> 38730 166828 | 518504 646499 | 128099 127996
+			Real Alignment 3: 38730 166828 | 518504 646499 | 128099 127996 | 99.9 | Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome contig_76
+			  Extensive misassembly (relocation, inconsistency = 14026) between these two alignments
+			Real Alignment 4: 180855 1426112 | 646500 1890766 | 1245258 1244267 | 99.9 | Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome contig_76
+
+CONTIG: contig_88 (14244bp)
+Best alignment score: 7673.2 (LEN: 7739, IDY: 99.15), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 13917.6, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 7 between Alignment 1 and 2: 174434 180952 | 1 6512 | 6519 6512 --> 174434 180945 | 1 6505 | 6512 6505
+			Real Alignment 1: 174434 180945 | 1 6505 | 6512 6505 | 99.89 | Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome contig_88
+			  Extensive misassembly (relocation, inconsistency = -14114) between these two alignments
+			Real Alignment 2: 166832 174589 | 6506 14244 | 7758 7739 | 99.15 | Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome contig_88
+
+CONTIG: contig_89 (1208bp)
+Best alignment score: 1180.0 (LEN: 1180, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 1180.0, number of alignments: 1, unaligned bases: 28
+		Alignment: 179773 180952 | 1 1180 | 1180 1180 | 100.0 | Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome contig_89
+
+Analyzing coverage...
+Writing SNPs into /home/shared/quast_results/runs_per_reference/Lactobacillus_fermentum_complete_genome/contigs_reports/minimap_output/assembly.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/shared/quast_results/runs_per_reference/Lactobacillus_fermentum_complete_genome/contigs_reports/minimap_output/assembly.used_snps.gz
+
+Results:
+	Local Misassemblies: 1
+	Misassemblies: 2
+		Relocations: 2
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 2
+	Misassembled Contig Bases: 1905010
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 3 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 85879
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 1905327
+
+	SNPs: 345
+	Insertions: 44
+	Deletions: 1536
+

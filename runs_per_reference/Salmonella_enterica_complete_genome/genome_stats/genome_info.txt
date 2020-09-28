@@ -1,0 +1,14 @@
+reference chromosomes:
+	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome (total length: 4759746 bp, total length without N's: 4759746 bp, maximal covered length: 4720464 bp)
+
+total genome size: 4759746
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+assembly_to_Salmonella_e | 99.175    | 1.000       | 3         | -         | -         | -         | -         |

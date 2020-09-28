@@ -1,0 +1,9 @@
+Assemblies                               assembly
+Bacillus_subtilis_complete_genome        99.629  
+Enterococcus_faecalis_complete_genome    100.000 
+Escherichia_coli_complete_genome         100.000 
+Lactobacillus_fermentum_complete_genome  100.000 
+Listeria_monocytogenes_complete_genome   99.964  
+Pseudomonas_aeruginosa_complete_genome   99.998  
+Salmonella_enterica_complete_genome      99.175  
+Staphylococcus_aureus_complete_genome    99.988  

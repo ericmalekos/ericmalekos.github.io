@@ -1,0 +1,17 @@
+reference chromosomes:
+	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome (total length: 2718780 bp, total length without N's: 2718780 bp, maximal covered length: 2718780 bp)
+	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid1 (total length: 6337 bp, total length without N's: 6337 bp, maximal covered length: 6002 bp)
+	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid2 (total length: 2216 bp, total length without N's: 2216 bp, maximal covered length: 2216 bp)
+	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid3 (total length: 2993 bp, total length without N's: 2993 bp, maximal covered length: 2993 bp)
+
+total genome size: 2730326
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+assembly_to_Staphylococc | 99.988    | 1.005       | 1         | -         | -         | -         | -         |

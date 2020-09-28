@@ -1,0 +1,107 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922]
+	Total Regions: 1
+	Total Region Length: 4045677
+Analyzing contigs...
+CONTIG: contig_125 (4031312bp)
+Best alignment score: 2503135.8 (LEN: 2504388, IDY: 99.95), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			The best set is below. Score: 4025795.3, number of alignments: 4, unaligned bases: 3046
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 4028266 out of 4031312 non-N bases (99.92%))
+			Real Alignment 1: 1 2505548 | 2504388 1 | 2505548 2504388 | 99.95 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_125
+			  Not a misassembly [linear representation of circular genome] between these two alignments
+			Real Alignment 2: 3765106 4045677 | 2784820 2504389 | 280572 280432 | 99.95 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_125
+			  Extensive misassembly (relocation, inconsistency = -3046) between these two alignments
+			Real Alignment 3: 2955758 3765105 | 3596856 2787867 | 809348 808990 | 99.95 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_125
+			  Extensive misassembly (relocation, inconsistency = 15581) between these two alignments
+			Real Alignment 4: 2505555 2940176 | 4031312 3596857 | 434622 434456 | 99.96 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_125
+		Unaligned bases: 3046
+
+CONTIG: contig_331 (565bp)
+Best alignment score: 364.0 (LEN: 365, IDY: 99.73), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3408987 3409261 | 1 274 | 275 274 | 99.64 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_331
+		Skipping redundant alignment 2955535 2955814 | 1 278 | 280 278 | 98.57 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_331
+		Skipping redundant alignment 2880275 2880555 | 1 279 | 281 279 | 99.29 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_331
+		Skipping redundant alignment 2874352 2874642 | 1 289 | 291 289 | 98.97 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_331
+			The best set is below. Score: 552.7, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 102 between Alignment 1 and 2: 2950431 2950734 | 1 302 | 304 302 --> 2950431 2950631 | 1 200 | 201 200
+			Real Alignment 1: 2950431 2950631 | 1 200 | 201 200 | 99.34 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_331
+			  Gap between these two alignments (local misassembly). Inconsistency = 102
+			Real Alignment 2: 2950734 2951099 | 201 565 | 366 365 | 99.73 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_331
+
+CONTIG: contig_334 (1751bp)
+Best alignment score: 1751.0 (LEN: 1751, IDY: 100.00), Total number of alignments: 10
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2788970 2790488 | 1 1519 | 1519 1519 | 100.0 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_334
+			Skipping alignment 2809582 2811100 | 1 1519 | 1519 1519 | 99.93 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_334
+		This contig has 8 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 3697306 3699056 | 1 1751 | 1751 1751 | 100.0 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_334
+			Skipping alignment 2875839 2877589 | 1 1751 | 1751 1751 | 100.0 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_334
+			Skipping alignment 2869916 2871666 | 1 1751 | 1751 1751 | 100.0 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_334
+			Skipping alignment 1714656 1716406 | 1751 1 | 1751 1751 | 99.94 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_334
+			Skipping alignment 3404551 3406301 | 1 1751 | 1751 1751 | 99.94 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_334
+			Skipping alignment 2951099 2952849 | 1 1751 | 1751 1751 | 99.89 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_334
+			Skipping alignment 2940381 2942131 | 1 1751 | 1751 1751 | 99.89 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_334
+			Skipping alignment 2945995 2947745 | 1 1751 | 1751 1751 | 99.89 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_334
+
+CONTIG: contig_494 (193346bp)
+Best alignment score: 197.0 (LEN: 197, IDY: 100.00), Total number of alignments: 11
+			Looking for the best set of alignments (out of 11 total alignments)
+			The best set is below. Score: 1347.0, number of alignments: 11, unaligned bases: 191967
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 1379 out of 193346 non-N bases (0.71%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 193346 (number of Ns: 0) and total length of all aligns is 1379
+		Alignment: 716307 716407 | 188209 188309 | 101 101 | 100.0 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_494
+		Alignment: 716691 716755 | 188609 188673 | 65 65 | 100.0 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_494
+		Alignment: 716758 716912 | 188674 188828 | 155 155 | 98.71 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_494
+		Alignment: 716913 717044 | 188830 188961 | 132 132 | 100.0 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_494
+		Alignment: 717116 717244 | 189032 189160 | 129 129 | 100.0 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_494
+		Alignment: 717245 717416 | 189162 189333 | 172 172 | 99.42 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_494
+		Alignment: 717418 717614 | 189334 189530 | 197 197 | 100.0 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_494
+		Alignment: 717637 717755 | 189553 189671 | 119 119 | 100.0 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_494
+		Alignment: 717757 717876 | 189672 189791 | 120 120 | 98.33 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_494
+		Alignment: 721534 721600 | 193112 193178 | 67 67 | 98.51 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_494
+		Alignment: 721605 721726 | 193183 193304 | 122 122 | 98.36 | Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 contig_494
+		Unaligned bases: 191967
+
+Analyzing coverage...
+Writing SNPs into /home/shared/quast_results/runs_per_reference/Bacillus_subtilis_complete_genome/contigs_reports/minimap_output/assembly.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/shared/quast_results/runs_per_reference/Bacillus_subtilis_complete_genome/contigs_reports/minimap_output/assembly.used_snps.gz
+
+Results:
+	Local Misassemblies: 1
+	Misassemblies: 2
+		Relocations: 2
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 1
+	Misassembled Contig Bases: 4031312
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 2 part
+Half Unaligned Contigs with Misassemblies: 1
+Unaligned Contig Bases: 195013
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 1751
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 4030657
+
+	SNPs: 58
+	Insertions: 104
+	Deletions: 1930
+

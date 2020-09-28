@@ -1,0 +1,88 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome]
+	Total Regions: 1
+	Total Region Length: 4759746
+Analyzing contigs...
+CONTIG: contig_411 (17422bp)
+Best alignment score: 17415.0 (LEN: 17422, IDY: 99.96), Total number of alignments: 1
+		One align captures most of this contig: 2795958 2813386 | 17422 1 | 17429 17422 | 99.96 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_411
+
+CONTIG: contig_83 (4711651bp)
+Best alignment score: 2500918.9 (LEN: 2502170, IDY: 99.95), Total number of alignments: 27
+			Looking for the best set of alignments (out of 27 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1053961 1055272 | 393270 394580 | 1312 1311 | 99.92 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 2436505 2437816 | 393270 394580 | 1312 1311 | 99.92 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 1540331 1541642 | 393270 394580 | 1312 1311 | 99.85 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 4541507 4542817 | 394580 393270 | 1311 1311 | 99.85 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 4328824 4330133 | 394580 393270 | 1310 1311 | 99.77 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 1799939 1801253 | 394580 393270 | 1315 1311 | 99.62 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 3168583 3169895 | 393269 394580 | 1313 1312 | 99.92 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 2726622 2727935 | 394580 393268 | 1314 1313 | 99.85 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 530869 532181 | 394581 393270 | 1313 1312 | 99.92 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 1569213 1570525 | 394581 393270 | 1313 1312 | 99.92 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 1053961 1055272 | 1943306 1944617 | 1312 1312 | 100.0 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 2436505 2437816 | 1943306 1944617 | 1312 1312 | 100.0 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 1540331 1541642 | 1943306 1944617 | 1312 1312 | 99.92 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 4541507 4542817 | 1944617 1943306 | 1311 1312 | 99.92 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 4328824 4330133 | 1944617 1943306 | 1310 1312 | 99.85 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 1799939 1801253 | 1944617 1943306 | 1315 1312 | 99.7 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 3168583 3169895 | 1943305 1944617 | 1313 1313 | 100.0 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 2277391 2278704 | 1944617 1943304 | 1314 1314 | 100.0 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 2726622 2727935 | 1944617 1943304 | 1314 1314 | 99.92 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 530869 532181 | 1944618 1943306 | 1313 1313 | 100.0 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Skipping redundant alignment 1569212 1570525 | 1944619 1943306 | 1314 1314 | 100.0 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 4698506.1, number of alignments: 6, unaligned bases: 8945
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 4702706 out of 4711651 non-N bases (99.81%))
+			Real Alignment 1: 2813390 3206647 | 1 393091 | 393258 393091 | 99.96 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+			  Extensive misassembly (relocation, inconsistency = 534509) between these two alignments
+			Real Alignment 2: 2277391 2278705 | 394580 393267 | 1315 1314 | 99.92 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+			  Extensive misassembly (relocation, inconsistency = 931189) between these two alignments
+			Real Alignment 3: 3209954 4759746 | 394640 1943746 | 1549793 1549107 | 99.95 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+			  Not a misassembly [linear representation of circular genome] between these two alignments
+			Real Alignment 4: 1 2503287 | 1943747 4445916 | 2503287 2502170 | 99.95 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+			  Gap between these two alignments (local misassembly). Inconsistency = 162
+			Real Alignment 5: 2512157 2637455 | 4454624 4579841 | 125299 125218 | 98.87 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+			  Gap between these two alignments (local misassembly). Inconsistency = -465
+			Real Alignment 6: 2636995 2768853 | 4579846 4711651 | 131859 131806 | 99.96 | Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome contig_83
+		Unaligned bases: 8945
+
+Analyzing coverage...
+Writing SNPs into /home/shared/quast_results/runs_per_reference/Salmonella_enterica_complete_genome/contigs_reports/minimap_output/assembly.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/shared/quast_results/runs_per_reference/Salmonella_enterica_complete_genome/contigs_reports/minimap_output/assembly.used_snps.gz
+
+Results:
+	Local Misassemblies: 2
+	Misassemblies: 2
+		Relocations: 2
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 1
+	Misassembled Contig Bases: 4711651
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 1 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 8945
+
+Ambiguously Mapped Contigs: 1
+Total Bases in Ambiguously Mapped Contigs: 4711651
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 4720464
+
+	SNPs: 1446
+	Insertions: 96
+	Deletions: 2208
+

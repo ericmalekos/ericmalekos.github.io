@@ -1,0 +1,7 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+1	418523	418382	1	Pseudomonas_aeruginosa_complete_genome_Pseudomonas_aeruginosa_complete_genome_Pseudomonas_aeruginosa_complete_genome	contig_123	99.96		True
+fake: not a misassembly [linear representation of circular genome]
+2945738	6792330	4263627	418383	Pseudomonas_aeruginosa_complete_genome_Pseudomonas_aeruginosa_complete_genome_Pseudomonas_aeruginosa_complete_genome	contig_123	99.95		True
+local misassembly
+418524	2945635	6789858	4263628	Pseudomonas_aeruginosa_complete_genome_Pseudomonas_aeruginosa_complete_genome_Pseudomonas_aeruginosa_complete_genome	contig_123	99.95		True
+CONTIG	contig_123	6789858	correct

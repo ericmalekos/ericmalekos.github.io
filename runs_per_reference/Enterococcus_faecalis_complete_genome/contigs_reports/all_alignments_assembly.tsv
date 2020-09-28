@@ -1,0 +1,7 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+668068	703834	35746	1	Enterococcus_faecalis_complete_genome_Enterococcus_faecalis_complete_genome_Enterococcus_faecalis_complete_genome	contig_424	99.94		True
+CONTIG	contig_424	35746	correct
+1	686608	686353	1	Enterococcus_faecalis_complete_genome_Enterococcus_faecalis_complete_genome_Enterococcus_faecalis_complete_genome	contig_52	99.96		True
+relocation, inconsistency = -2289 [linear representation of circular genome]
+684320	2845392	2846464	686354	Enterococcus_faecalis_complete_genome_Enterococcus_faecalis_complete_genome_Enterococcus_faecalis_complete_genome	contig_52	99.91		True
+CONTIG	contig_52	2848149	misassembled

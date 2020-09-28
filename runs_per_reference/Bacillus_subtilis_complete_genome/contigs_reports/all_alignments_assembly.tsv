@@ -1,0 +1,38 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+1	2505548	2504388	1	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_125	99.95		True
+fake: not a misassembly [linear representation of circular genome]
+3765106	4045677	2784820	2504389	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_125	99.95		True
+relocation, inconsistency = -3046
+2955758	3765105	3596856	2787867	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_125	99.95		True
+relocation, inconsistency = 15581
+2505555	2940176	4031312	3596857	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_125	99.96		True
+CONTIG	contig_125	4031312	misassembled
+2950431	2950631	1	200	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_331	99.34		True
+local misassembly
+2950734	2951099	201	565	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_331	99.73		True
+CONTIG	contig_331	565	correct
+3697306	3699056	1	1751	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_334	100.0		True
+CONTIG	contig_334	1751	correct
+716307	716407	188209	188309	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	100.0		True
+unknown
+716691	716755	188609	188673	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	100.0		True
+unknown
+716758	716912	188674	188828	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	98.71		True
+unknown
+716913	717044	188830	188961	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	100.0		True
+unknown
+717116	717244	189032	189160	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	100.0		True
+unknown
+717245	717416	189162	189333	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	99.42		True
+unknown
+717418	717614	189334	189530	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	100.0		True
+unknown
+717637	717755	189553	189671	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	100.0		True
+unknown
+717757	717876	189672	189791	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	98.33		True
+unknown
+721534	721600	193112	193178	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	98.51		True
+unknown
+721605	721726	193183	193304	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	98.36		True
+unknown
+CONTIG	contig_494	193346	mis_unaligned

@@ -1,0 +1,19 @@
+Number of interspecies translocations by references: 
+References                               1  2  3  4  5  6  7  8
+Bacillus_subtilis_complete_genome        -  0  0  0  0  0  0  2
+Enterococcus_faecalis_complete_genome    0  -  0  0  0  0  0  0
+Escherichia_coli_complete_genome         0  0  -  0  0  0  2  0
+Lactobacillus_fermentum_complete_genome  0  0  0  -  0  0  0  0
+Listeria_monocytogenes_complete_genome   0  0  0  0  -  0  0  0
+Pseudomonas_aeruginosa_complete_genome   0  0  0  0  0  -  0  0
+Salmonella_enterica_complete_genome      0  0  2  0  0  0  -  0
+Staphylococcus_aureus_complete_genome    2  0  0  0  0  0  0  -
+References:
+1 - Bacillus_subtilis_complete_genome
+2 - Enterococcus_faecalis_complete_genome
+3 - Escherichia_coli_complete_genome
+4 - Lactobacillus_fermentum_complete_genome
+5 - Listeria_monocytogenes_complete_genome
+6 - Pseudomonas_aeruginosa_complete_genome
+7 - Salmonella_enterica_complete_genome
+8 - Staphylococcus_aureus_complete_genome

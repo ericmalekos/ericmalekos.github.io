@@ -1,0 +1,359 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_plasmid]
+	Loaded [Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome]
+	Total Regions: 2
+	Total Region Length: 4875441
+Analyzing contigs...
+CONTIG: contig_141 (4724719bp)
+Best alignment score: 3077931.3 (LEN: 3079471, IDY: 99.95), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 4722356.6, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Real Alignment 1: 3119687 4765434 | 1 1645248 | 1645748 1645248 | 99.95 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_141
+			  Not a misassembly [linear representation of circular genome] between these two alignments
+			Real Alignment 2: 1 3080515 | 1645249 4724719 | 3080515 3079471 | 99.95 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_141
+
+CONTIG: contig_158 (36077bp)
+Best alignment score: 36069.8 (LEN: 36077, IDY: 99.98), Total number of alignments: 1
+		One align captures most of this contig: 3078270 3114351 | 1 36077 | 36082 36077 | 99.98 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_158
+
+CONTIG: contig_159 (9274bp)
+Best alignment score: 9228.4 (LEN: 9246, IDY: 99.81), Total number of alignments: 1
+		One align captures most of this contig: 3119682 3128922 | 1 9246 | 9241 9246 | 99.81 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_159
+
+CONTIG: contig_251 (4307bp)
+Best alignment score: 2397.0 (LEN: 2397, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 2397.0, number of alignments: 1, unaligned bases: 1910
+		This contig is partially unaligned. (Aligned 2397 out of 4307 non-N bases (55.65%))
+		Alignment: 2873474 2875870 | 1911 4307 | 2397 2397 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_251
+		Unaligned bases: 1 to 1910 (1910)
+
+CONTIG: contig_319 (11052bp)
+Best alignment score: 11049.8 (LEN: 11052, IDY: 99.98), Total number of alignments: 1
+		One align captures most of this contig: 1808441 1819494 | 1 11052 | 11054 11052 | 99.98 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_319
+
+CONTIG: contig_410 (16003bp)
+Best alignment score: 15999.8 (LEN: 16003, IDY: 99.98), Total number of alignments: 1
+		One align captures most of this contig: 3080526 3096532 | 1 16003 | 16007 16003 | 99.98 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_410
+
+CONTIG: contig_83 (4711651bp)
+Best alignment score: 23303.9 (LEN: 23618, IDY: 98.67), Total number of alignments: 250
+			Too much alignments (250), will use speed up heuristics
+			Found 10 solid alignments:
+		Solid alignment 2889553 2891105 | 218123 216571 | 1553 1553 | 97.36 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Solid alignment 2869191 2870700 | 239456 237947 | 1510 1510 | 96.69 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Solid alignment 1717458 1719261 | 1512646 1510843 | 1804 1804 | 96.56 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Solid alignment 3933030 3934143 | 3892360 3891248 | 1114 1113 | 96.15 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Solid alignment 3884993 3888474 | 3948811 3945320 | 3482 3492 | 97.03 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Solid alignment 3882895 3884717 | 3950814 3948995 | 1823 1820 | 96.99 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Solid alignment 3858435 3872317 | 3975282 3961402 | 13883 13881 | 97.61 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Solid alignment 3837153 3841795 | 3981461 3976819 | 4643 4643 | 95.63 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Solid alignment 3400679 3401633 | 4415748 4414794 | 955 955 | 96.44 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Solid alignment 3346791 3370385 | 4462466 4438849 | 23595 23618 | 98.67 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+			Skipping alignments located inside solid regions since they are redundant:
+		Nothing was skipped
+			Looking for the best set of alignments (out of 250 total alignments)
+		Ambiguity for this contig is not checked for speed up (too much alignments and --ambiguity-usage is "one")
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3078017 3078206 | 2509 2320 | 190 190 | 97.37 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3077496 3077978 | 3028 2546 | 483 483 | 96.89 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3077294 3077486 | 3230 3038 | 193 193 | 95.85 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3076946 3077292 | 3577 3231 | 347 347 | 98.27 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3076235 3076939 | 4288 3584 | 705 705 | 96.17 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3075526 3076090 | 4995 4431 | 565 565 | 97.35 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3074589 3075525 | 5934 4998 | 937 937 | 97.97 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3073424 3074562 | 7101 5963 | 1139 1139 | 98.42 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3073121 3073422 | 7403 7102 | 302 302 | 97.35 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3072947 3073078 | 7576 7445 | 132 132 | 99.24 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3339102 3344263 | 7576 2418 | 5162 5159 | 96.62 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4591322 4596560 | 2418 7576 | 5239 5159 | 95.11 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3888341 3888637 | 7446 7742 | 297 297 | 95.29 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3067073 3067179 | 13073 12967 | 107 107 | 95.33 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 2903057 2903134 | 204280 204203 | 78 78 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 2903155 2903245 | 204293 204203 | 91 91 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 2854807 2854910 | 247957 247854 | 104 104 | 96.15 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 2831154 2831222 | 269137 269069 | 69 69 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 2797756 2797881 | 317896 317771 | 126 126 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 2599161 2599269 | 566716 566608 | 109 109 | 98.17 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 2579340 2579409 | 586444 586375 | 70 70 | 97.14 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 2531827 2531917 | 638019 637929 | 91 91 | 97.8 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3248684 3248765 | 753675 753594 | 82 82 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3884854 3884935 | 753594 753675 | 82 82 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3248530 3248669 | 753828 753689 | 140 140 | 95.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3885086 3885647 | 753832 754393 | 562 562 | 98.04 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3247963 3248527 | 754393 753829 | 565 565 | 97.88 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3075526 3076090 | 754393 753829 | 565 565 | 97.88 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3116930 3117494 | 754393 753829 | 565 565 | 97.88 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3341681 3342245 | 754393 753829 | 565 565 | 97.88 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3247026 3247951 | 755432 754507 | 926 926 | 98.6 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3074589 3075514 | 755432 754507 | 926 926 | 98.6 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3115993 3116918 | 755432 754507 | 926 926 | 98.6 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3340744 3341669 | 755432 754507 | 926 926 | 98.6 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3885658 3886584 | 754506 755432 | 927 927 | 98.6 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3886607 3887744 | 755457 756594 | 1138 1138 | 98.24 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3245861 3246999 | 756599 755461 | 1139 1139 | 98.51 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3073424 3074562 | 756599 755461 | 1139 1139 | 98.51 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3114828 3115966 | 756599 755461 | 1139 1139 | 98.51 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3339579 3340717 | 756599 755461 | 1139 1139 | 98.51 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3245569 3245859 | 756890 756600 | 291 291 | 97.59 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3073132 3073422 | 756890 756600 | 291 291 | 97.59 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3114536 3114826 | 756890 756600 | 291 291 | 97.59 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3339287 3339577 | 756890 756600 | 291 291 | 97.59 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3887746 3888041 | 756595 756890 | 296 296 | 97.64 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4593992 4596375 | 754506 756890 | 2384 2385 | 98.03 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3338977 3339062 | 757440 757355 | 86 86 | 98.84 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 2416887 2416965 | 757441 757363 | 79 79 | 98.73 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 2416889 2416972 | 766875 766792 | 84 84 | 96.43 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 2384425 2384505 | 838870 838790 | 81 81 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 2133865 2133939 | 1101526 1101452 | 75 75 | 97.33 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 1922338 1922435 | 1310558 1310461 | 98 98 | 97.96 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 1922256 1922336 | 1310639 1310559 | 81 81 | 98.77 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 1921728 1921829 | 1310855 1310754 | 102 102 | 97.06 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 1921494 1921604 | 1311091 1310981 | 111 111 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 1572959 1573036 | 1472556 1472633 | 78 78 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 1700091 1700209 | 1531503 1531385 | 119 119 | 96.64 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 1694058 1694145 | 1537465 1537378 | 88 88 | 95.45 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 1649501 1649615 | 1620830 1620944 | 115 115 | 99.13 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 1765271 1765372 | 1668782 1668682 | 102 101 | 99.02 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 1572958 1573082 | 1668698 1668822 | 125 125 | 95.2 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 1449764 1449870 | 1715766 1715660 | 107 107 | 95.33 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 811809 811924 | 2001753 2001868 | 116 116 | 98.28 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 816844 816983 | 2005337 2005476 | 140 140 | 96.43 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 884602 884704 | 2060188 2060290 | 103 103 | 98.06 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 1283747 1283841 | 2326254 2326348 | 95 95 | 98.95 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 1294261 1294384 | 2335704 2335827 | 124 124 | 95.16 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 1294952 1295029 | 2336441 2336518 | 78 78 | 97.44 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 568340 568432 | 2520902 2520810 | 93 93 | 95.7 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 475924 476003 | 2575074 2574995 | 80 80 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 473515 473611 | 2575074 2574978 | 97 97 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 477742 477834 | 2574993 2575085 | 93 93 | 98.92 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 492131 492230 | 2584933 2585032 | 100 100 | 99.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 477724 477834 | 2585032 2584922 | 111 111 | 97.3 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 473515 473615 | 2584933 2585033 | 101 101 | 99.01 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 475924 476003 | 2586839 2586760 | 80 80 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 443335 443439 | 2639874 2639770 | 105 105 | 99.05 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 251262 251363 | 2822273 2822172 | 102 102 | 98.04 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 72355 72432 | 2987594 2987517 | 78 78 | 97.44 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4678198 4678279 | 3147938 3147857 | 82 82 | 96.34 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4660929 4660994 | 3170765 3170700 | 66 66 | 96.97 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4660286 4660350 | 3171481 3171417 | 65 65 | 96.92 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3888341 3888637 | 3279717 3279421 | 297 297 | 95.29 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4596427 4596560 | 3279720 3279587 | 134 134 | 98.51 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4596080 4596386 | 3280066 3279760 | 307 307 | 97.39 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4594941 4596078 | 3281204 3280067 | 1138 1138 | 98.24 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4593982 4594918 | 3282165 3281229 | 937 937 | 98.08 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4593420 4593981 | 3282729 3282168 | 562 562 | 97.51 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4592490 4593073 | 3283580 3282997 | 584 584 | 98.97 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4592133 4592484 | 3283937 3283586 | 352 352 | 98.3 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4591943 4592131 | 3284126 3283938 | 189 189 | 95.24 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4591450 4591933 | 3284619 3284136 | 484 484 | 96.9 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4591319 4591412 | 3284748 3284655 | 94 94 | 97.87 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3072947 3078166 | 3279587 3284801 | 5220 5215 | 96.63 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3339102 3344433 | 3279587 3284915 | 5332 5329 | 96.09 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 2795668 2795748 | 3327404 3327324 | 81 81 | 95.06 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4517658 4517744 | 3366596 3366510 | 87 87 | 98.85 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4270564 4270721 | 3644626 3644469 | 158 158 | 98.73 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4244925 4245067 | 3660738 3660596 | 143 143 | 95.8 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4240606 4240686 | 3673377 3673297 | 81 81 | 95.06 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4233837 4233938 | 3680320 3680219 | 102 102 | 97.06 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 2933066 2933165 | 3698114 3698213 | 100 100 | 99.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4216402 4216496 | 3698214 3698120 | 95 95 | 98.95 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4126905 4126973 | 3745147 3745079 | 69 69 | 95.65 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4111877 4111958 | 3754747 3754666 | 82 82 | 95.12 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3736865 3736954 | 4087246 4087157 | 90 90 | 97.78 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3513755 3513896 | 4321152 4321012 | 142 141 | 98.59 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3245384 3250844 | 4470328 4464803 | 5461 5526 | 95.51 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3882981 3888227 | 4465010 4470329 | 5247 5320 | 95.58 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 2424891 2430270 | 4470453 4465010 | 5380 5444 | 95.6 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4591139 4591221 | 4559869 4559951 | 83 83 | 95.18 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4591307 4591412 | 4560038 4560143 | 106 106 | 99.06 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3250546 3250648 | 4560144 4560042 | 103 103 | 98.06 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4591450 4591933 | 4560179 4560662 | 484 484 | 96.9 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3250025 3250507 | 4560663 4560181 | 483 483 | 97.1 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4591943 4592131 | 4560672 4560860 | 189 189 | 95.24 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3249823 3250015 | 4560865 4560673 | 193 193 | 95.85 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3249475 3249821 | 4561212 4560866 | 347 347 | 98.27 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4592133 4592484 | 4560861 4561212 | 352 352 | 98.3 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3248902 3249468 | 4561785 4561219 | 567 567 | 98.94 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4592490 4593073 | 4561218 4561801 | 584 584 | 98.97 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4593420 4593981 | 4562069 4562630 | 562 562 | 97.51 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4593982 4594918 | 4562633 4563569 | 937 937 | 98.08 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4594941 4596078 | 4563594 4564731 | 1138 1138 | 98.15 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4596080 4596386 | 4564732 4565038 | 307 307 | 97.39 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 4596427 4596560 | 4565078 4565211 | 134 134 | 98.51 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3072947 3078109 | 4565211 4560052 | 5163 5160 | 96.68 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3339102 3344470 | 4565211 4559845 | 5369 5367 | 96.43 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3243962 3244034 | 4566667 4566595 | 73 73 | 95.89 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3227829 3227911 | 4581454 4581372 | 83 83 | 96.39 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3167917 3168002 | 4660115 4660030 | 86 86 | 98.84 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Skipping redundant alignment 3162619 3162756 | 4665564 4665427 | 138 138 | 95.65 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+			The best set is below. Score: 84957.5, number of alignments: 118, unaligned bases: 4613642
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 98009 out of 4711651 non-N bases (2.08%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 4711651 (number of Ns: 0) and total length of all aligns is 98009
+		Alignment: 3114185 3119512 | 7742 2418 | 5328 5325 | 96.53 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2933068 2933165 | 174239 174142 | 98 98 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2903266 2903356 | 204061 203971 | 91 91 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2903266 2903356 | 204293 204203 | 91 91 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2903058 2903134 | 204511 204435 | 77 77 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2889553 2891105 | 218123 216571 | 1553 1553 | 97.36 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2869191 2870700 | 239456 237947 | 1510 1510 | 96.69 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2689861 2690269 | 424401 424002 | 409 400 | 96.33 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2684162 2684240 | 430049 429971 | 79 79 | 96.2 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2633510 2633879 | 513629 513260 | 370 370 | 99.19 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2464040 2464136 | 716907 716811 | 97 97 | 98.97 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2463277 2464023 | 717672 716926 | 747 747 | 95.98 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2463052 2463133 | 717896 717815 | 82 82 | 95.12 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2430202 2430367 | 751720 751555 | 166 166 | 96.39 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2429657 2430201 | 752266 751722 | 545 545 | 97.06 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2429455 2429647 | 752468 752276 | 193 193 | 95.85 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2429101 2429453 | 752821 752469 | 353 353 | 99.15 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2428533 2429100 | 753390 752823 | 568 568 | 98.94 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2428431 2428532 | 753493 753392 | 102 102 | 98.04 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2428316 2428397 | 753675 753594 | 82 82 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2428162 2428301 | 753828 753689 | 140 140 | 95.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2427597 2428159 | 754391 753829 | 563 563 | 98.05 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2425201 2427584 | 756890 754506 | 2384 2385 | 98.03 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2424882 2424976 | 757449 757355 | 95 95 | 98.95 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2290905 2291050 | 935230 935085 | 146 146 | 95.21 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2290334 2290471 | 935790 935653 | 138 138 | 96.4 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2256853 2256957 | 970097 969993 | 105 105 | 95.24 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2203997 2204165 | 1034887 1034719 | 169 169 | 98.82 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2188349 2188510 | 1051214 1051053 | 162 162 | 97.53 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2044488 2044750 | 1198122 1197860 | 263 263 | 97.34 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2008009 2008093 | 1241095 1241011 | 85 85 | 96.47 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2006668 2006787 | 1242413 1242294 | 120 120 | 96.67 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2006344 2006530 | 1242742 1242556 | 187 187 | 96.79 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2006238 2006313 | 1242849 1242774 | 76 76 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2006124 2006220 | 1243073 1242977 | 97 97 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 2006035 2006122 | 1243161 1243074 | 88 88 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 1922033 1922136 | 1310558 1310455 | 104 104 | 95.19 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 1921951 1922031 | 1310639 1310559 | 81 81 | 98.77 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 1921728 1921829 | 1310855 1310754 | 102 102 | 97.06 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 1921481 1921604 | 1311104 1310981 | 124 124 | 99.19 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 1764723 1765028 | 1475748 1475443 | 306 306 | 95.42 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 1758911 1758999 | 1481583 1481495 | 89 89 | 96.63 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 1758773 1758892 | 1481721 1481602 | 120 120 | 95.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 1727644 1727957 | 1502495 1502182 | 314 314 | 96.5 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 1719262 1719354 | 1510841 1510749 | 93 93 | 95.7 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 1717458 1719261 | 1512646 1510843 | 1804 1804 | 96.56 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 1446909 1447118 | 1719907 1719698 | 210 210 | 98.57 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 1442538 1442980 | 1724294 1723852 | 443 443 | 98.65 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 758298 758603 | 1913181 1913486 | 306 306 | 98.04 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 758606 758988 | 1913487 1913869 | 383 383 | 97.91 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 800702 801083 | 1959466 1959847 | 382 382 | 96.34 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 649349 649804 | 2421051 2420596 | 456 456 | 95.83 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 641329 641454 | 2429098 2428973 | 126 126 | 96.83 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 633780 633923 | 2458533 2458390 | 144 144 | 97.22 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 565116 565225 | 2526998 2526889 | 110 110 | 99.09 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 565026 565114 | 2527087 2526999 | 89 89 | 95.51 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 564904 564991 | 2527206 2527119 | 88 88 | 98.86 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 493196 493302 | 2573045 2572939 | 107 107 | 96.26 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 492127 492208 | 2574109 2574028 | 82 82 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 492131 492227 | 2575074 2574978 | 97 97 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 199276 199787 | 2858033 2857522 | 512 512 | 95.51 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 133604 134234 | 2921306 2920676 | 631 631 | 96.04 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 32026 32149 | 3012191 3012068 | 124 124 | 97.58 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 29150 29263 | 3015072 3014959 | 114 114 | 95.61 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 28930 29144 | 3015287 3015073 | 215 215 | 98.6 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 16280 16620 | 3027993 3027653 | 341 341 | 95.89 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 16146 16279 | 3028130 3027997 | 134 134 | 96.27 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3114185 3119682 | 3279421 3284915 | 5498 5495 | 96.03 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 4578062 4578443 | 3298187 3297806 | 382 382 | 97.64 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 4569066 4569133 | 3307897 3307830 | 68 68 | 97.06 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 4566664 4567051 | 3327178 3326792 | 388 387 | 97.17 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 4507644 4507873 | 3389014 3388785 | 230 230 | 96.09 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 4507648 4507865 | 3389287 3389071 | 218 217 | 95.87 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 4507243 4507451 | 3389417 3389209 | 209 209 | 99.52 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 4507103 4507172 | 3389555 3389486 | 70 70 | 95.71 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 4506757 4506977 | 3389889 3389669 | 221 221 | 95.02 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 4426550 4426959 | 3515548 3515139 | 410 410 | 97.07 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 4386131 4386245 | 3565159 3565045 | 115 115 | 97.39 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 4386021 4386110 | 3565265 3565176 | 90 90 | 96.67 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 4385920 4386000 | 3565362 3565282 | 81 81 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 4101974 4102340 | 3760582 3760216 | 367 367 | 97.82 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 4099729 4099958 | 3762907 3762678 | 230 230 | 96.09 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 4097311 4097386 | 3765370 3765295 | 76 76 | 100.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 4042339 4042814 | 3800831 3800364 | 476 468 | 95.8 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 4002330 4002673 | 3828796 3828453 | 344 344 | 96.22 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3999313 3999417 | 3831807 3831703 | 105 105 | 95.24 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3988515 3988617 | 3840783 3840681 | 103 103 | 98.06 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3977212 3977562 | 3852043 3851693 | 351 351 | 96.3 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3933030 3934143 | 3892360 3891248 | 1114 1113 | 96.15 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3884993 3888474 | 3948811 3945320 | 3482 3492 | 97.03 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3882895 3884717 | 3950814 3948995 | 1823 1820 | 96.99 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3877611 3877689 | 3956095 3956017 | 79 79 | 96.2 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3858435 3872317 | 3975282 3961402 | 13883 13881 | 97.61 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3837153 3841795 | 3981461 3976819 | 4643 4643 | 95.63 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3795915 3795980 | 4017181 4017116 | 66 66 | 98.48 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3794523 3794659 | 4018638 4018502 | 137 137 | 95.62 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3792672 3792771 | 4020497 4020398 | 100 100 | 98.0 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3785377 3785463 | 4027822 4027736 | 87 87 | 96.55 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3538318 3538841 | 4295050 4294527 | 524 524 | 97.71 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3401676 3401742 | 4414752 4414686 | 67 67 | 97.01 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3400679 3401633 | 4415748 4414794 | 955 955 | 96.44 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3346791 3370385 | 4462466 4438849 | 23595 23618 | 98.67 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3344172 3344274 | 4465102 4465000 | 103 103 | 98.06 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3343651 3344133 | 4465621 4465139 | 483 483 | 96.89 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3343449 3343641 | 4465823 4465631 | 193 193 | 95.85 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3343101 3343447 | 4466170 4465824 | 347 347 | 98.27 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3342533 3343094 | 4466738 4466177 | 562 562 | 98.75 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3338879 3342344 | 4470551 4467086 | 3466 3466 | 97.12 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3335449 3335562 | 4473970 4473857 | 114 114 | 98.25 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3320226 3320366 | 4489829 4489689 | 141 141 | 95.74 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3303331 3303418 | 4506850 4506763 | 88 88 | 97.73 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3303242 3303321 | 4506939 4506860 | 80 80 | 98.75 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3303074 3303198 | 4507105 4506981 | 125 125 | 99.2 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3294904 3294993 | 4511965 4511876 | 90 90 | 98.89 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3284606 3284775 | 4522226 4522057 | 170 170 | 97.06 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3284536 3284605 | 4522298 4522229 | 70 70 | 95.71 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3114185 3119719 | 4565377 4559845 | 5535 5533 | 96.36 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Alignment: 3157603 3157945 | 4674196 4673854 | 343 343 | 95.04 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome contig_83
+		Unaligned bases: 4613642
+
+CONTIG: contig_521 (109988bp)
+Best alignment score: 67938.4 (LEN: 67952, IDY: 99.98), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 109940.8, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Real Alignment 1: 67961 110007 | 1 42036 | 42047 42036 | 99.92 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_plasmid contig_521
+			  Indel (<= 5bp) between these two alignments: insertion of length 3; 0 mismatches (number of Ns: 0) [linear representation of circular genome]
+			Real Alignment 2: 1 67963 | 42037 109988 | 67963 67952 | 99.98 | Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_plasmid contig_521
+
+Analyzing coverage...
+Writing SNPs into /home/shared/quast_results/runs_per_reference/Escherichia_coli_complete_genome/contigs_reports/minimap_output/assembly.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/shared/quast_results/runs_per_reference/Escherichia_coli_complete_genome/contigs_reports/minimap_output/assembly.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 2 part
+Half Unaligned Contigs with Misassemblies: 1
+Unaligned Contig Bases: 4615552
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 4875441
+
+	SNPs: 3035
+	Insertions: 235
+	Deletions: 1803
+

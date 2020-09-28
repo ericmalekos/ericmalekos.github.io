@@ -1,0 +1,25 @@
+reference chromosomes:
+	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922 (total length: 4045677 bp, total length without N's: 4045677 bp, maximal covered length: 4036011 bp)
+	Enterococcus_faecalis_complete_genome_Enterococcus_faecalis_complete_genome_Enterococcus_faecalis_complete_genome (total length: 2845392 bp, total length without N's: 2845389 bp, maximal covered length: 2845389 bp)
+	Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_plasmid (total length: 110007 bp, total length without N's: 110007 bp, maximal covered length: 110007 bp)
+	Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome (total length: 4765434 bp, total length without N's: 4765434 bp, maximal covered length: 4760104 bp)
+	Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome (total length: 1905333 bp, total length without N's: 1905333 bp, maximal covered length: 1905327 bp)
+	Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome (total length: 2992342 bp, total length without N's: 2992342 bp, maximal covered length: 2991628 bp)
+	Pseudomonas_aeruginosa_complete_genome_Pseudomonas_aeruginosa_complete_genome_Pseudomonas_aeruginosa_complete_genome (total length: 6792330 bp, total length without N's: 6792330 bp, maximal covered length: 6792330 bp)
+	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome (total length: 4759746 bp, total length without N's: 4759746 bp, maximal covered length: 4720759 bp)
+	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome (total length: 2718780 bp, total length without N's: 2718780 bp, maximal covered length: 2718780 bp)
+	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid1 (total length: 6337 bp, total length without N's: 6337 bp, maximal covered length: 6002 bp)
+	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid2 (total length: 2216 bp, total length without N's: 2216 bp, maximal covered length: 2216 bp)
+	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid3 (total length: 2993 bp, total length without N's: 2993 bp, maximal covered length: 2993 bp)
+
+total genome size: 30946587
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+assembly                 | 99.822    | 1.007       | 11        | -         | -         | -         | -         |

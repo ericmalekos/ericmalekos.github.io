@@ -1,0 +1,51 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     assembly  
+# contigs (>= 1000 bp)       6         
+# contigs (>= 5000 bp)       4         
+# contigs (>= 10000 bp)      3         
+# contigs (>= 25000 bp)      2         
+# contigs (>= 50000 bp)      2         
+Total length (>= 1000 bp)    1995454   
+Total length (>= 5000 bp)    1990481   
+Total length (>= 10000 bp)   1982468   
+Total length (>= 25000 bp)   1968224   
+Total length (>= 50000 bp)   1968224   
+# contigs                    6         
+Largest contig               1890766   
+Total length                 1995454   
+Reference length             1905333   
+GC (%)                       52.11     
+Reference GC (%)             52.30     
+N50                          1890766   
+NG50                         1890766   
+N75                          1890766   
+NG75                         1890766   
+L50                          1         
+LG50                         1         
+L75                          1         
+LG75                         1         
+# misassemblies              2         
+# misassembled contigs       2         
+Misassembled contigs length  1905010   
+# local misassemblies        1         
+# scaffold gap ext. mis.     0         
+# scaffold gap loc. mis.     0         
+# unaligned mis. contigs     0         
+# unaligned contigs          0 + 3 part
+Unaligned length             85879     
+Genome fraction (%)          100.000   
+Duplication ratio            1.002     
+# N's per 100 kbp            0.00      
+# mismatches per 100 kbp     18.11     
+# indels per 100 kbp         76.99     
+Largest alignment            1244267   
+Total aligned length         1909546   
+NA50                         1244267   
+NGA50                        1244267   
+NA75                         646498    
+NGA75                        646498    
+LA50                         1         
+LGA50                        1         
+LA75                         2         
+LGA75                        2         

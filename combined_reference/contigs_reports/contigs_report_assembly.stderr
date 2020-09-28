@@ -1,0 +1,10 @@
+[M::mm_idx_gen::0.763*1.00] collected minimizers
+[M::mm_idx_gen::0.823*1.47] sorted minimizers
+[M::main::0.823*1.47] loaded/built the index for 12 target sequence(s)
+[M::mm_mapopt_update::0.858*1.45] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 12
+[M::mm_idx_stat::0.881*1.44] distinct minimizers: 3013123 (98.45% are singletons); average occurrences: 1.028; average spacing: 9.995
+[M::worker_pipeline::6.518*4.61] mapped 441 sequences
+[M::main] Version: 2.11-r797
+[M::main] CMD: /opt/conda/envs/env/lib/python3.6/site-packages/quast_libs/minimap2/minimap2 -c -x asm10 -B5 -O4,16 --no-long-join -r 85 -N 100 -s 65 -z 200 --mask-level 1 --min-occ 200 -g 2500 --score-N 2 --cs -t 8 /home/shared/quast_results/quast_corrected_input/combined_reference.fasta /home/shared/quast_results/combined_reference/../quast_corrected_input/assembly.fasta
+[M::main] Real time: 6.530 sec; CPU: 30.062 sec

@@ -1,0 +1,181 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome]
+	Loaded [Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid1]
+	Loaded [Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid2]
+	Loaded [Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid3]
+	Total Regions: 4
+	Total Region Length: 2730326
+Analyzing contigs...
+CONTIG: contig_124 (4419bp)
+Best alignment score: 4418.1 (LEN: 4419, IDY: 99.98), Total number of alignments: 1
+		One align captures most of this contig: 1585 6004 | 4419 1 | 4420 4419 | 99.98 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid1 contig_124
+
+CONTIG: contig_138 (628bp)
+Best alignment score: 563.0 (LEN: 563, IDY: 100.00), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 622.0, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 2 between Alignment 1 and 2: 6009 6075 | 628 562 | 67 67 --> 6009 6073 | 628 564 | 65 65
+			Real Alignment 1: 702 1264 | 563 1 | 563 563 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid1 contig_138
+			  Gap between these two alignments (local misassembly). Inconsistency = 965 [linear representation of circular genome]
+			Real Alignment 2: 6009 6073 | 628 564 | 65 65 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid1 contig_138
+
+CONTIG: contig_139 (1091bp)
+Best alignment score: 808.0 (LEN: 808, IDY: 100.00), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 1061.0, number of alignments: 2, unaligned bases: 30
+		This contig is misassembled.
+			Real Alignment 1: 1 808 | 808 1 | 808 808 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid1 contig_139
+			  Indel (> 5bp) between these two alignments: insertion of length 30; 0 mismatches (number of Ns: 0) [linear representation of circular genome]
+			Real Alignment 2: 6085 6337 | 1091 839 | 253 253 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid1 contig_139
+
+CONTIG: contig_140 (513bp)
+Best alignment score: 513.0 (LEN: 513, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 3047 3559 | 513 1 | 513 513 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid1 contig_140
+
+CONTIG: contig_125 (4031312bp)
+Best alignment score: 1749.0 (LEN: 1750, IDY: 99.94), Total number of alignments: 30
+			Looking for the best set of alignments (out of 30 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1645514 1645587 | 795315 795388 | 74 74 | 95.95 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Skipping redundant alignment 1645607 1645672 | 795408 795473 | 66 66 | 95.45 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Skipping redundant alignment 734695 734765 | 2850165 2850095 | 71 71 | 95.77 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Skipping redundant alignment 483879 483957 | 2850567 2850489 | 79 79 | 96.2 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Skipping redundant alignment 591702 591789 | 3246841 3246753 | 88 89 | 96.63 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Skipping redundant alignment 484077 484154 | 3247193 3247116 | 78 78 | 97.44 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Skipping redundant alignment 1645607 1645672 | 3247380 3247315 | 66 66 | 96.97 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Skipping redundant alignment 1645514 1645587 | 3247474 3247401 | 74 74 | 95.95 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Skipping redundant alignment 483984 484149 | 3578520 3578357 | 166 164 | 95.81 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Skipping redundant alignment 733925 733991 | 3687615 3687549 | 67 67 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Skipping redundant alignment 2095284 2095524 | 3724989 3725229 | 241 241 | 95.44 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Skipping redundant alignment 481001 481241 | 3725230 3724990 | 241 241 | 95.85 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Skipping redundant alignment 2096134 2096216 | 3725795 3725877 | 83 83 | 96.39 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Skipping redundant alignment 2096134 2096216 | 3746398 3746480 | 83 83 | 96.39 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 4204.8, number of alignments: 16, unaligned bases: 4025258
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 6054 out of 4031312 non-N bases (0.15%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 4031312 (number of Ns: 0) and total length of all aligns is 6054
+		Alignment: 733130 733200 | 793611 793681 | 71 71 | 97.18 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Alignment: 733216 733292 | 793713 793789 | 77 77 | 96.1 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Alignment: 733737 733810 | 794281 794354 | 74 74 | 97.3 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Alignment: 733827 733901 | 794362 794436 | 75 75 | 97.33 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Alignment: 1 1296 | 2786116 2784821 | 1296 1296 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid3 contig_125
+		Alignment: 1243 2993 | 2787866 2786117 | 1751 1750 | 99.94 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid3 contig_125
+		Alignment: 2087880 2088330 | 2851200 2851650 | 451 451 | 96.9 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Alignment: 2087880 2088330 | 3143822 3144272 | 451 451 | 96.9 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Alignment: 2087880 2088330 | 3656750 3657200 | 451 451 | 96.9 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Alignment: 733737 733810 | 3661685 3661612 | 74 74 | 97.3 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Alignment: 733653 733727 | 3661789 3661715 | 75 75 | 96.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Alignment: 733215 733292 | 3662292 3662215 | 78 78 | 96.15 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Alignment: 733130 733202 | 3662365 3662293 | 73 73 | 97.26 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Alignment: 2087880 2088330 | 3722809 3723259 | 451 451 | 96.9 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Alignment: 2090061 2090216 | 3724989 3725144 | 156 156 | 96.15 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Alignment: 2087880 2088330 | 3743412 3743862 | 451 451 | 96.9 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_125
+		Unaligned bases: 4025258
+
+CONTIG: contig_380 (2854bp)
+Best alignment score: 1336.0 (LEN: 1336, IDY: 100.00), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 2830.0, number of alignments: 3, unaligned bases: 0
+		This contig is misassembled.
+			Real Alignment 1: 1 1300 | 1300 1 | 1300 1300 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid3 contig_380
+			  Not a misassembly [linear representation of circular genome] between these two alignments
+			Real Alignment 2: 2776 2993 | 1518 1301 | 218 218 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid3 contig_380
+			  Gap between these two alignments (local misassembly). Inconsistency = 198
+			Real Alignment 3: 1242 2577 | 2854 1519 | 1336 1336 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid3 contig_380
+
+CONTIG: contig_129 (2718270bp)
+Best alignment score: 1414108.1 (LEN: 1414391, IDY: 99.98), Total number of alignments: 8
+			Looking for the best set of alignments (out of 8 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2718546 2718700 | 1303645 1303799 | 155 155 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_129
+		Skipping redundant alignment 11 106 | 1303800 1303895 | 96 96 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_129
+		Skipping redundant alignment 125 190 | 1303896 1303961 | 66 66 | 96.97 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_129
+		Skipping redundant alignment 2718701 2718780 | 1303890 1303969 | 80 80 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_129
+		Skipping redundant alignment 227 298 | 1303962 1304033 | 72 72 | 95.83 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_129
+		Skipping redundant alignment 365 456 | 1304136 1304227 | 92 92 | 97.83 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_129
+			The best set is below. Score: 2717726.3, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Real Alignment 1: 1414629 2718780 | 1 1303879 | 1304152 1303879 | 99.98 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_129
+			  Not a misassembly [linear representation of circular genome] between these two alignments
+			Real Alignment 2: 1 1414628 | 1303880 2718270 | 1414628 1414391 | 99.98 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_129
+
+CONTIG: contig_330 (838bp)
+Best alignment score: 837.0 (LEN: 838, IDY: 99.88), Total number of alignments: 1
+		One align captures most of this contig: 2087032 2087869 | 838 1 | 838 838 | 99.88 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_330
+
+CONTIG: contig_332 (2039bp)
+Best alignment score: 2039.0 (LEN: 2039, IDY: 100.00), Total number of alignments: 6
+		This contig has 6 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 2093106 2095144 | 2039 1 | 2039 2039 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_332
+			Skipping alignment 481382 483420 | 1 2039 | 2039 2039 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_332
+			Skipping alignment 594799 596837 | 1 2039 | 2039 2039 | 99.95 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_332
+			Skipping alignment 730781 732819 | 1 2039 | 2039 2039 | 99.95 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_332
+			Skipping alignment 2137648 2139687 | 2039 1 | 2040 2039 | 99.95 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_332
+			Skipping alignment 2087881 2089924 | 2039 1 | 2044 2039 | 99.66 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_332
+
+CONTIG: contig_333 (2562bp)
+Best alignment score: 2560.0 (LEN: 2562, IDY: 99.92), Total number of alignments: 3
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2140301 2142623 | 2562 332 | 2323 2231 | 95.48 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_333
+			Skipping alignment 2095758 2097962 | 2562 391 | 2205 2172 | 96.89 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_333
+		One align captures most of this contig: 2090535 2093098 | 2562 1 | 2564 2562 | 99.92 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_333
+
+CONTIG: contig_335 (612bp)
+Best alignment score: 612.0 (LEN: 612, IDY: 100.00), Total number of alignments: 5
+		This contig has 5 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 2095145 2095756 | 612 1 | 612 612 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_335
+			Skipping alignment 480770 481381 | 1 612 | 612 612 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_335
+			Skipping alignment 2139688 2140299 | 612 1 | 612 612 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_335
+			Skipping alignment 730169 730780 | 1 612 | 612 612 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_335
+			Skipping alignment 594187 594798 | 1 612 | 612 612 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome contig_335
+
+CONTIG: contig_355 (2523bp)
+Best alignment score: 1643.0 (LEN: 1643, IDY: 100.00), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 2499.0, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Real Alignment 1: 574 2216 | 1 1643 | 1643 1643 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid2 contig_355
+			  Overlap between these two alignments (local misassembly). Inconsistency = -307 [linear representation of circular genome]
+			Real Alignment 2: 1 880 | 1644 2523 | 880 880 | 100.0 | Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid2 contig_355
+
+Analyzing coverage...
+Writing SNPs into /home/shared/quast_results/runs_per_reference/Staphylococcus_aureus_complete_genome/contigs_reports/minimap_output/assembly.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/shared/quast_results/runs_per_reference/Staphylococcus_aureus_complete_genome/contigs_reports/minimap_output/assembly.used_snps.gz
+
+Results:
+	Local Misassemblies: 3
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 1 part
+Half Unaligned Contigs with Misassemblies: 1
+Unaligned Contig Bases: 4025258
+
+Ambiguously Mapped Contigs: 3
+Total Bases in Ambiguously Mapped Contigs: 4033963
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 2729991
+
+	SNPs: 108
+	Insertions: 55
+	Deletions: 539
+

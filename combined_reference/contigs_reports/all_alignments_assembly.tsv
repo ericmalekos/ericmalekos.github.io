@@ -1,0 +1,594 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+CONTIG	contig_100	31570	unaligned
+CONTIG	contig_101	35424	unaligned
+CONTIG	contig_102	357668	unaligned
+CONTIG	contig_103	1124	unaligned
+CONTIG	contig_104	95082	unaligned
+CONTIG	contig_105	90116	unaligned
+CONTIG	contig_106	275593	unaligned
+CONTIG	contig_107	110519	unaligned
+CONTIG	contig_108	2972	unaligned
+CONTIG	contig_109	9104	unaligned
+CONTIG	contig_110	24071	unaligned
+CONTIG	contig_111	85733	unaligned
+CONTIG	contig_112	24589	unaligned
+CONTIG	contig_114	80195	unaligned
+CONTIG	contig_115	30469	unaligned
+CONTIG	contig_117	2173	unaligned
+CONTIG	contig_118	51848	unaligned
+CONTIG	contig_119	116965	unaligned
+CONTIG	contig_120	147984	unaligned
+CONTIG	contig_121	1795	unaligned
+CONTIG	contig_122	1494	unaligned
+1	418523	418382	1	Pseudomonas_aeruginosa_complete_genome_Pseudomonas_aeruginosa_complete_genome_Pseudomonas_aeruginosa_complete_genome	contig_123	99.96		True
+fake: not a misassembly [linear representation of circular genome]
+2943270	6792330	4265993	418383	Pseudomonas_aeruginosa_complete_genome_Pseudomonas_aeruginosa_complete_genome_Pseudomonas_aeruginosa_complete_genome	contig_123	99.95		True
+indel: stretch of mismatches
+418524	2943269	6789858	4265994	Pseudomonas_aeruginosa_complete_genome_Pseudomonas_aeruginosa_complete_genome_Pseudomonas_aeruginosa_complete_genome	contig_123	99.95		True
+CONTIG	contig_123	6789858	correct
+1585	6004	4419	1	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid1	contig_124	99.98		True
+CONTIG	contig_124	4419	correct
+1	2505548	2504388	1	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_125	99.95		True
+fake: not a misassembly [linear representation of circular genome]
+3765106	4045677	2784820	2504389	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_125	99.95		True
+interspecies translocation
+1	1296	2786116	2784821	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid3	contig_125	100.0		True
+indel: indel (> 5bp) [linear representation of circular genome]
+1243	2993	2787866	2786117	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid3	contig_125	99.94		True
+interspecies translocation
+2955758	3765105	3596856	2787867	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_125	99.95		True
+relocation, inconsistency = 15581
+2505555	2940176	4031312	3596857	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_125	99.96		True
+CONTIG	contig_125	4031312	misassembled
+CONTIG	contig_126	7041	unaligned
+CONTIG	contig_127	18204	unaligned
+CONTIG	contig_128	38042	unaligned
+1414629	2718780	1	1303879	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome	contig_129	99.98		True
+fake: not a misassembly [linear representation of circular genome]
+1	1414628	1303880	2718270	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome	contig_129	99.98		True
+CONTIG	contig_129	2718270	correct
+CONTIG	contig_13	61190	unaligned
+CONTIG	contig_130	5895	unaligned
+CONTIG	contig_131	9607	unaligned
+295551	308589	19382	32431	Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome	contig_132	99.87		True
+CONTIG	contig_132	49993	correct_unaligned
+CONTIG	contig_134	56133	unaligned
+CONTIG	contig_135	10961	unaligned
+CONTIG	contig_136	12155	unaligned
+CONTIG	contig_137	87348	unaligned
+702	1264	563	1	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid1	contig_138	100.0		True
+local misassembly [linear representation of circular genome]
+6009	6073	628	564	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid1	contig_138	100.0		True
+CONTIG	contig_138	628	correct
+1	808	808	1	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid1	contig_139	100.0		True
+indel: indel (> 5bp) [linear representation of circular genome]
+6085	6337	1091	839	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid1	contig_139	100.0		True
+CONTIG	contig_139	1091	correct
+CONTIG	contig_14	16650	unaligned
+3047	3559	513	1	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid1	contig_140	100.0		True
+CONTIG	contig_140	513	correct
+3119687	4765434	1	1645248	Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome	contig_141	99.95		True
+fake: not a misassembly [linear representation of circular genome]
+1	3080515	1645249	4724719	Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome	contig_141	99.95		True
+CONTIG	contig_141	4724719	correct
+CONTIG	contig_142	5181	unaligned
+CONTIG	contig_144	18180	unaligned
+CONTIG	contig_145	456389	unaligned
+CONTIG	contig_147	4550	unaligned
+CONTIG	contig_148	4361	unaligned
+CONTIG	contig_149	10279	unaligned
+CONTIG	contig_15	310106	unaligned
+CONTIG	contig_150	77906	unaligned
+CONTIG	contig_151	4038	unaligned
+CONTIG	contig_152	3337	unaligned
+CONTIG	contig_153	232890	unaligned
+CONTIG	contig_154	3030	unaligned
+CONTIG	contig_155	1944	unaligned
+CONTIG	contig_156	8168	unaligned
+CONTIG	contig_157	45934	unaligned
+3078270	3114351	1	36077	Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome	contig_158	99.98		True
+CONTIG	contig_158	36077	correct
+3119682	3128922	1	9246	Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome	contig_159	99.81		True
+CONTIG	contig_159	9274	correct
+CONTIG	contig_16	75616	unaligned
+CONTIG	contig_160	567483	unaligned
+CONTIG	contig_161	4455	unaligned
+CONTIG	contig_162	12940	unaligned
+CONTIG	contig_163	164961	unaligned
+CONTIG	contig_164	538947	unaligned
+CONTIG	contig_166	29254	unaligned
+CONTIG	contig_167	740603	unaligned
+CONTIG	contig_168	81510	unaligned
+CONTIG	contig_170	256648	unaligned
+CONTIG	contig_171	21925	unaligned
+CONTIG	contig_172	367120	unaligned
+672771	674288	6492	8009	Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome	contig_173	100.0		True
+CONTIG	contig_173	8013	correct_unaligned
+CONTIG	contig_174	433145	unaligned
+CONTIG	contig_175	104330	unaligned
+CONTIG	contig_176	10113	unaligned
+CONTIG	contig_177	59633	unaligned
+CONTIG	contig_18	930943	unaligned
+CONTIG	contig_187	575	unaligned
+CONTIG	contig_19	512481	unaligned
+CONTIG	contig_191	1800	unaligned
+CONTIG	contig_194	3759	unaligned
+CONTIG	contig_195	4066	unaligned
+CONTIG	contig_198	5949	unaligned
+CONTIG	contig_199	15381	unaligned
+CONTIG	contig_2	67118	unaligned
+CONTIG	contig_20	1452	unaligned
+CONTIG	contig_201	10638	unaligned
+CONTIG	contig_203	8229	unaligned
+CONTIG	contig_204	1148	unaligned
+CONTIG	contig_205	5602	unaligned
+CONTIG	contig_206	753	unaligned
+CONTIG	contig_207	10118	unaligned
+CONTIG	contig_208	29607	unaligned
+CONTIG	contig_209	157348	unaligned
+474414	475362	2381	3329	Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome	contig_21	100.0		True
+CONTIG	contig_21	3765	correct_unaligned
+CONTIG	contig_211	648547	unaligned
+CONTIG	contig_212	39536	unaligned
+CONTIG	contig_213	9088	unaligned
+CONTIG	contig_214	291130	unaligned
+CONTIG	contig_215	5383	unaligned
+CONTIG	contig_216	89162	unaligned
+CONTIG	contig_217	684	unaligned
+CONTIG	contig_218	121192	unaligned
+CONTIG	contig_219	8097	unaligned
+CONTIG	contig_22	518	unaligned
+CONTIG	contig_221	9024	unaligned
+CONTIG	contig_222	2122	unaligned
+CONTIG	contig_223	21589	unaligned
+CONTIG	contig_225	9464	unaligned
+CONTIG	contig_226	4760	unaligned
+CONTIG	contig_23	552	unaligned
+CONTIG	contig_230	1512	unaligned
+CONTIG	contig_231	21296	unaligned
+CONTIG	contig_232	17612	unaligned
+CONTIG	contig_233	7113	unaligned
+CONTIG	contig_234	15506	unaligned
+CONTIG	contig_235	70886	unaligned
+CONTIG	contig_238	14489	unaligned
+CONTIG	contig_24	521	unaligned
+CONTIG	contig_242	10865	unaligned
+CONTIG	contig_243	313292	unaligned
+CONTIG	contig_244	50136	unaligned
+CONTIG	contig_245	13309	unaligned
+CONTIG	contig_246	79921	unaligned
+CONTIG	contig_247	77276	unaligned
+CONTIG	contig_248	6394	unaligned
+CONTIG	contig_249	2855	unaligned
+CONTIG	contig_25	963	unaligned
+CONTIG	contig_250	81162	unaligned
+2873474	2875870	1911	4307	Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome	contig_251	100.0		True
+CONTIG	contig_251	4307	correct
+CONTIG	contig_252	3268	unaligned
+CONTIG	contig_253	3842	unaligned
+CONTIG	contig_254	195355	unaligned
+CONTIG	contig_255	15647	unaligned
+CONTIG	contig_256	12859	unaligned
+CONTIG	contig_257	21348	unaligned
+CONTIG	contig_258	3367	unaligned
+CONTIG	contig_259	33519	unaligned
+CONTIG	contig_26	515	unaligned
+CONTIG	contig_260	14429	unaligned
+CONTIG	contig_261	7503	unaligned
+CONTIG	contig_262	4538	unaligned
+CONTIG	contig_263	4511	unaligned
+CONTIG	contig_264	21820	unaligned
+CONTIG	contig_265	36163	unaligned
+CONTIG	contig_266	413623	unaligned
+CONTIG	contig_267	6914	unaligned
+CONTIG	contig_268	7792	unaligned
+CONTIG	contig_269	190275	unaligned
+CONTIG	contig_27	8207	unaligned
+CONTIG	contig_270	10829	unaligned
+CONTIG	contig_272	1355	unaligned
+CONTIG	contig_273	31623	unaligned
+CONTIG	contig_274	178989	unaligned
+CONTIG	contig_275	9113	unaligned
+CONTIG	contig_276	6726	unaligned
+CONTIG	contig_277	58138	unaligned
+CONTIG	contig_278	13187	unaligned
+CONTIG	contig_28	1273	unaligned
+CONTIG	contig_281	16081	unaligned
+CONTIG	contig_282	4372	unaligned
+CONTIG	contig_283	465896	unaligned
+CONTIG	contig_284	163632	unaligned
+CONTIG	contig_285	10523	unaligned
+CONTIG	contig_286	19658	unaligned
+CONTIG	contig_287	27075	unaligned
+CONTIG	contig_288	6915	unaligned
+CONTIG	contig_290	11952	unaligned
+CONTIG	contig_291	9142	unaligned
+CONTIG	contig_292	67740	unaligned
+CONTIG	contig_294	3678	unaligned
+CONTIG	contig_295	3162	unaligned
+CONTIG	contig_296	3309	unaligned
+CONTIG	contig_297	1719	unaligned
+CONTIG	contig_298	85293	unaligned
+CONTIG	contig_3	67589	unaligned
+CONTIG	contig_30	120748	unaligned
+CONTIG	contig_300	309214	unaligned
+CONTIG	contig_301	2464	unaligned
+CONTIG	contig_302	2901	unaligned
+CONTIG	contig_303	3068	unaligned
+CONTIG	contig_304	237472	unaligned
+CONTIG	contig_305	120340	unaligned
+CONTIG	contig_307	8601	unaligned
+CONTIG	contig_308	20289	unaligned
+CONTIG	contig_309	4199	unaligned
+CONTIG	contig_31	1896	unaligned
+CONTIG	contig_310	31312	unaligned
+CONTIG	contig_311	134690	unaligned
+CONTIG	contig_312	8749	unaligned
+CONTIG	contig_313	131316	unaligned
+CONTIG	contig_314	38451	unaligned
+CONTIG	contig_315	15248	unaligned
+CONTIG	contig_316	7618	unaligned
+CONTIG	contig_317	7409	unaligned
+CONTIG	contig_318	2501	unaligned
+1808441	1819494	1	11052	Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome	contig_319	99.98		True
+CONTIG	contig_319	11052	correct
+CONTIG	contig_32	12269	unaligned
+CONTIG	contig_320	1117	unaligned
+CONTIG	contig_322	19931	unaligned
+CONTIG	contig_323	71935	unaligned
+CONTIG	contig_324	91268	unaligned
+CONTIG	contig_325	6758	unaligned
+CONTIG	contig_326	7243	unaligned
+CONTIG	contig_327	148220	unaligned
+CONTIG	contig_328	13004	unaligned
+CONTIG	contig_329	85148	unaligned
+2087032	2087869	838	1	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome	contig_330	99.88		True
+CONTIG	contig_330	838	correct
+2874352	2874642	1	289	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_331	98.97		False
+2875502	2875664	293	455	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_331	98.77		False
+2875730	2875839	456	565	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_331	100.0		False
+2950431	2950631	1	200	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_331	99.34		True
+local misassembly
+2950734	2951099	201	565	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_331	99.73		True
+CONTIG	contig_331	565	correct
+481382	483420	1	2039	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome	contig_332	100.0	True	True
+2093106	2095144	2039	1	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome	contig_332	100.0	True	True
+2137648	2139687	2039	1	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome	contig_332	99.95	True	True
+730781	732819	1	2039	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome	contig_332	99.95	True	True
+594799	596837	1	2039	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome	contig_332	99.95	True	True
+2087881	2089924	2039	1	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome	contig_332	99.66	True	True
+CONTIG	contig_332	2039	ambiguous
+2090535	2093098	2562	1	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome	contig_333	99.92		True
+CONTIG	contig_333	2562	correct
+3697306	3699056	1	1751	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_334	100.0	True	True
+2875839	2877589	1	1751	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_334	100.0	True	True
+2869916	2871666	1	1751	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_334	100.0	True	True
+1714656	1716406	1751	1	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_334	99.94	True	True
+3404551	3406301	1	1751	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_334	99.94	True	True
+2951099	2952849	1	1751	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_334	99.89	True	True
+2940381	2942131	1	1751	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_334	99.89	True	True
+2945995	2947745	1	1751	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_334	99.89	True	True
+CONTIG	contig_334	1751	ambiguous
+2139688	2140299	612	1	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome	contig_335	100.0	True	True
+480770	481381	1	612	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome	contig_335	100.0	True	True
+730169	730780	1	612	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome	contig_335	100.0	True	True
+594187	594798	1	612	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome	contig_335	100.0	True	True
+2095145	2095756	612	1	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_chromosome	contig_335	100.0	True	True
+CONTIG	contig_335	612	ambiguous
+CONTIG	contig_336	9391	unaligned
+CONTIG	contig_337	26777	unaligned
+CONTIG	contig_338	23337	unaligned
+CONTIG	contig_339	37274	unaligned
+CONTIG	contig_34	399779	unaligned
+CONTIG	contig_340	7670	unaligned
+CONTIG	contig_341	10122	unaligned
+CONTIG	contig_342	5181	unaligned
+CONTIG	contig_343	6036	unaligned
+CONTIG	contig_345	14034	unaligned
+CONTIG	contig_346	11374	unaligned
+CONTIG	contig_347	67730	unaligned
+CONTIG	contig_348	59329	unaligned
+CONTIG	contig_349	2962	unaligned
+CONTIG	contig_35	237036	unaligned
+CONTIG	contig_350	3566	unaligned
+CONTIG	contig_351	11625	unaligned
+CONTIG	contig_353	19574	unaligned
+CONTIG	contig_354	81426	unaligned
+574	2216	1	1643	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid2	contig_355	100.0		True
+local misassembly [linear representation of circular genome]
+1	880	1644	2523	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid2	contig_355	100.0		True
+CONTIG	contig_355	2523	correct
+CONTIG	contig_356	8970	unaligned
+CONTIG	contig_357	2289	unaligned
+CONTIG	contig_358	164596	unaligned
+CONTIG	contig_359	145102	unaligned
+CONTIG	contig_36	23329	unaligned
+CONTIG	contig_360	2169	unaligned
+CONTIG	contig_361	212836	unaligned
+CONTIG	contig_364	80271	unaligned
+CONTIG	contig_365	5882	unaligned
+CONTIG	contig_366	4035	unaligned
+CONTIG	contig_367	3802	unaligned
+CONTIG	contig_368	9581	unaligned
+CONTIG	contig_369	6827	unaligned
+CONTIG	contig_37	121061	unaligned
+CONTIG	contig_370	122963	unaligned
+CONTIG	contig_371	13016	unaligned
+CONTIG	contig_372	4098	unaligned
+CONTIG	contig_373	60201	unaligned
+CONTIG	contig_374	20815	unaligned
+CONTIG	contig_375	19100	unaligned
+CONTIG	contig_376	11033	unaligned
+CONTIG	contig_377	68697	unaligned
+CONTIG	contig_378	86392	unaligned
+CONTIG	contig_379	13460	unaligned
+CONTIG	contig_38	3154	unaligned
+1	1300	1300	1	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid3	contig_380	100.0		True
+fake: not a misassembly [linear representation of circular genome]
+2776	2993	1518	1301	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid3	contig_380	100.0		True
+local misassembly
+1242	2577	2854	1519	Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_complete_genome_Staphylococcus_aureus_plasmid3	contig_380	100.0		True
+CONTIG	contig_380	2854	correct
+866515	867407	76541	77430	Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome	contig_381	99.66		True
+CONTIG	contig_381	77458	correct_unaligned
+CONTIG	contig_383	2522	unaligned
+CONTIG	contig_384	101109	unaligned
+CONTIG	contig_385	9419	unaligned
+CONTIG	contig_386	9294	unaligned
+CONTIG	contig_387	18347	unaligned
+CONTIG	contig_389	174114	unaligned
+CONTIG	contig_390	2851	unaligned
+CONTIG	contig_391	554544	unaligned
+CONTIG	contig_392	3263	unaligned
+CONTIG	contig_393	3386	unaligned
+CONTIG	contig_394	6637	unaligned
+CONTIG	contig_395	7859	unaligned
+CONTIG	contig_396	11737	unaligned
+CONTIG	contig_397	2913	unaligned
+CONTIG	contig_398	861	unaligned
+CONTIG	contig_399	635	unaligned
+CONTIG	contig_4	155860	unaligned
+CONTIG	contig_40	896733	unaligned
+CONTIG	contig_400	4250	unaligned
+CONTIG	contig_401	17383	unaligned
+CONTIG	contig_402	2543	unaligned
+CONTIG	contig_404	13834	unaligned
+CONTIG	contig_405	7753	unaligned
+CONTIG	contig_406	7322	unaligned
+CONTIG	contig_407	5711	unaligned
+CONTIG	contig_408	10445	unaligned
+CONTIG	contig_409	18744	unaligned
+CONTIG	contig_41	42473	unaligned
+3080526	3096532	1	16003	Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome	contig_410	99.98		True
+CONTIG	contig_410	16003	correct
+2795958	2813386	17422	1	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_411	99.96		True
+CONTIG	contig_411	17422	correct
+CONTIG	contig_412	14864	unaligned
+CONTIG	contig_413	4781	unaligned
+CONTIG	contig_414	30133	unaligned
+CONTIG	contig_415	2608	unaligned
+CONTIG	contig_416	2859	unaligned
+CONTIG	contig_417	3480	unaligned
+CONTIG	contig_418	4505	unaligned
+CONTIG	contig_419	4893	unaligned
+CONTIG	contig_42	415988	unaligned
+CONTIG	contig_420	8152	unaligned
+CONTIG	contig_421	77174	unaligned
+CONTIG	contig_422	46369	unaligned
+2245843	2281609	35746	1	Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome	contig_424	99.94	True	True
+668068	703834	35746	1	Enterococcus_faecalis_complete_genome_Enterococcus_faecalis_complete_genome_Enterococcus_faecalis_complete_genome	contig_424	99.94	True	True
+CONTIG	contig_424	35746	ambiguous
+CONTIG	contig_425	277267	unaligned
+CONTIG	contig_426	1340	unaligned
+CONTIG	contig_428	10136	unaligned
+CONTIG	contig_429	6567	unaligned
+2259076	2992342	1	733037	Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome	contig_43	99.96		True
+fake: not a misassembly [linear representation of circular genome]
+1	1229349	733038	1962037	Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome	contig_43	99.97		True
+local misassembly
+1229860	1230727	1962038	1962905	Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome	contig_43	99.71		True
+local misassembly
+1230218	1414346	1962906	2146977	Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome	contig_43	99.94		True
+local misassembly
+1414551	2266815	2146978	2998930	Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome	contig_43	99.96		True
+CONTIG	contig_43	2998930	correct
+CONTIG	contig_430	6580	unaligned
+CONTIG	contig_431	2061	unaligned
+CONTIG	contig_432	1526	unaligned
+CONTIG	contig_433	4805	unaligned
+CONTIG	contig_434	3522	unaligned
+CONTIG	contig_435	6135	unaligned
+CONTIG	contig_436	12793	unaligned
+CONTIG	contig_437	6342	unaligned
+CONTIG	contig_439	6970	unaligned
+CONTIG	contig_44	928	unaligned
+CONTIG	contig_440	7802	unaligned
+CONTIG	contig_441	3117	unaligned
+1561140	1563354	2222	1	Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome_Listeria_monocytogenes_complete_genome	contig_442	98.88		True
+CONTIG	contig_442	18127	correct_unaligned
+CONTIG	contig_443	16602	unaligned
+CONTIG	contig_444	1921	unaligned
+CONTIG	contig_445	5492	unaligned
+CONTIG	contig_446	9674	unaligned
+CONTIG	contig_447	2896	unaligned
+CONTIG	contig_448	1615	unaligned
+CONTIG	contig_449	6868	unaligned
+CONTIG	contig_45	1339	unaligned
+CONTIG	contig_450	12810	unaligned
+CONTIG	contig_451	9052	unaligned
+CONTIG	contig_453	4816	unaligned
+CONTIG	contig_454	9089	unaligned
+CONTIG	contig_455	10448	unaligned
+CONTIG	contig_456	7655	unaligned
+CONTIG	contig_457	4131	unaligned
+CONTIG	contig_458	4341	unaligned
+CONTIG	contig_46	1232	unaligned
+CONTIG	contig_463	6417	unaligned
+CONTIG	contig_464	42757	unaligned
+CONTIG	contig_466	17638	unaligned
+CONTIG	contig_467	110884	unaligned
+CONTIG	contig_469	108676	unaligned
+CONTIG	contig_47	744932	unaligned
+CONTIG	contig_470	13029	unaligned
+CONTIG	contig_471	23718	unaligned
+CONTIG	contig_472	2672	unaligned
+CONTIG	contig_473	37454	unaligned
+CONTIG	contig_474	23655	unaligned
+CONTIG	contig_475	409474	unaligned
+CONTIG	contig_477	144654	unaligned
+CONTIG	contig_478	75359	unaligned
+CONTIG	contig_479	49544	unaligned
+CONTIG	contig_48	121664	unaligned
+CONTIG	contig_482	7249	unaligned
+CONTIG	contig_483	15537	unaligned
+CONTIG	contig_484	124178	unaligned
+CONTIG	contig_485	8603	unaligned
+CONTIG	contig_487	7310	unaligned
+CONTIG	contig_489	17257	unaligned
+CONTIG	contig_49	4342	unaligned
+CONTIG	contig_490	73457	unaligned
+CONTIG	contig_492	12431	unaligned
+CONTIG	contig_493	148224	unaligned
+716307	716407	188209	188309	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	100.0		True
+unknown
+716691	716755	188609	188673	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	100.0		True
+unknown
+716758	716912	188674	188828	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	98.71		True
+unknown
+716913	717044	188830	188961	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	100.0		True
+unknown
+717116	717244	189032	189160	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	100.0		True
+unknown
+717245	717416	189162	189333	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	99.42		True
+unknown
+717418	717614	189334	189530	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	100.0		True
+unknown
+717637	717755	189553	189671	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	100.0		True
+unknown
+717757	717876	189672	189791	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	98.33		True
+unknown
+721534	721600	193112	193178	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	98.51		True
+unknown
+721605	721726	193183	193304	Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922	contig_494	98.36		True
+unknown
+CONTIG	contig_494	193346	mis_unaligned
+CONTIG	contig_495	10453	unaligned
+CONTIG	contig_496	23107	unaligned
+CONTIG	contig_497	37857	unaligned
+CONTIG	contig_498	275722	unaligned
+CONTIG	contig_499	8602	unaligned
+CONTIG	contig_5	302430	unaligned
+CONTIG	contig_50	55716	unaligned
+CONTIG	contig_500	10504	unaligned
+CONTIG	contig_501	83477	unaligned
+CONTIG	contig_502	3908	unaligned
+CONTIG	contig_503	27166	unaligned
+CONTIG	contig_504	15624	unaligned
+CONTIG	contig_505	18720	unaligned
+CONTIG	contig_507	109195	unaligned
+CONTIG	contig_508	19215	unaligned
+CONTIG	contig_509	26123	unaligned
+CONTIG	contig_51	26091	unaligned
+CONTIG	contig_510	107712	unaligned
+CONTIG	contig_511	26133	unaligned
+CONTIG	contig_512	10332	unaligned
+CONTIG	contig_513	78952	unaligned
+CONTIG	contig_514	32672	unaligned
+CONTIG	contig_515	36728	unaligned
+CONTIG	contig_516	118439	unaligned
+CONTIG	contig_518	14906	unaligned
+CONTIG	contig_519	6174	unaligned
+1	686608	686353	1	Enterococcus_faecalis_complete_genome_Enterococcus_faecalis_complete_genome_Enterococcus_faecalis_complete_genome	contig_52	99.96		True
+relocation, inconsistency = -2289 [linear representation of circular genome]
+684320	2845392	2846464	686354	Enterococcus_faecalis_complete_genome_Enterococcus_faecalis_complete_genome_Enterococcus_faecalis_complete_genome	contig_52	99.91		True
+CONTIG	contig_52	2848149	misassembled
+67961	110007	1	42036	Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_plasmid	contig_521	99.91		True
+indel: indel (<= 5bp) [linear representation of circular genome]
+1	67963	42037	109988	Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_plasmid	contig_521	99.98		True
+CONTIG	contig_521	109988	correct
+CONTIG	contig_53	290313	unaligned
+CONTIG	contig_54	21629	unaligned
+CONTIG	contig_55	20423	unaligned
+CONTIG	contig_56	46317	unaligned
+CONTIG	contig_58	2423	unaligned
+CONTIG	contig_6	152696	unaligned
+CONTIG	contig_60	513202	unaligned
+CONTIG	contig_61	25422	unaligned
+CONTIG	contig_62	11166	unaligned
+CONTIG	contig_63	64425	unaligned
+CONTIG	contig_64	14224	unaligned
+CONTIG	contig_65	156362	unaligned
+CONTIG	contig_66	135581	unaligned
+CONTIG	contig_67	247293	unaligned
+CONTIG	contig_68	12014	unaligned
+CONTIG	contig_69	451167	unaligned
+CONTIG	contig_7	138269	unaligned
+CONTIG	contig_70	101771	unaligned
+CONTIG	contig_71	6501	unaligned
+CONTIG	contig_72	17636	unaligned
+CONTIG	contig_73	1793	unaligned
+CONTIG	contig_75	55415	unaligned
+1426116	1905333	1	478865	Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome	contig_76	99.9		True
+fake: not a misassembly [linear representation of circular genome]
+1	39654	478866	518503	Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome	contig_76	99.9		True
+local misassembly
+38730	166828	518504	646499	Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome	contig_76	99.9		True
+relocation, inconsistency = 14026
+180855	1426112	646500	1890766	Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome	contig_76	99.9		True
+CONTIG	contig_76	1890766	misassembled
+CONTIG	contig_77	5322	unaligned
+CONTIG	contig_78	4622	unaligned
+CONTIG	contig_79	79276	unaligned
+CONTIG	contig_8	685133	unaligned
+CONTIG	contig_80	20274	unaligned
+CONTIG	contig_81	13113	unaligned
+CONTIG	contig_82	743013	unaligned
+1053961	1055272	393270	394580	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	99.92		False
+2436505	2437816	393270	394580	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	99.92		False
+1540331	1541642	393270	394580	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	99.85		False
+4541507	4542817	394580	393270	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	99.85		False
+4328824	4330133	394580	393270	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	99.77		False
+1799939	1801253	394580	393270	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	99.62		False
+3168583	3169895	393269	394580	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	99.92		False
+2726622	2727935	394580	393268	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	99.85		False
+2277391	2278705	394580	393267	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	99.92		False
+1569213	1570525	394581	393270	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	99.92		False
+530869	532181	394581	393270	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	99.92		False
+2813390	3206647	1	393091	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	99.96		True
+relocation, inconsistency = 1552481
+4759305	4759746	393268	393710	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	99.77		True
+fake: not a misassembly [linear representation of circular genome]
+1	872	393711	394581	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	99.89		True
+indel: indel (> 5bp) [linear representation of circular genome]
+3209954	4759746	394640	1943746	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	99.95		True
+fake: not a misassembly [linear representation of circular genome]
+1	2503582	1943747	4446211	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	99.94		True
+interspecies translocation
+3354615	3363027	4454623	4446212	Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome	contig_83	98.67		True
+interspecies translocation
+2512157	2637455	4454624	4579841	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	98.87		True
+local misassembly
+2636995	2768853	4579846	4711651	Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome_Salmonella_enterica_complete_genome	contig_83	99.96		True
+CONTIG	contig_83	4711651	misassembled
+CONTIG	contig_84	313939	unaligned
+CONTIG	contig_85	42065	unaligned
+CONTIG	contig_86	13783	unaligned
+174434	180945	1	6505	Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome	contig_88	99.89		True
+relocation, inconsistency = -14114
+166832	174589	6506	14244	Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome	contig_88	99.14		True
+CONTIG	contig_88	14244	misassembled
+179773	180952	1	1180	Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome_Lactobacillus_fermentum_complete_genome	contig_89	100.0		True
+CONTIG	contig_89	1208	correct
+CONTIG	contig_9	619283	unaligned
+CONTIG	contig_90	647498	unaligned
+CONTIG	contig_91	15904	unaligned
+CONTIG	contig_92	311027	unaligned
+CONTIG	contig_93	355338	unaligned
+CONTIG	contig_94	13489	unaligned
+CONTIG	contig_95	705	unaligned
+CONTIG	contig_96	233792	unaligned
+CONTIG	contig_97	386550	unaligned
+CONTIG	contig_98	101153	unaligned
+CONTIG	contig_99	190211	unaligned
+CONTIG	scaffold_116	132765	unaligned
+CONTIG	scaffold_520	642779	unaligned

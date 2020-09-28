@@ -1,0 +1,4 @@
+Bacillus_subtilis_complete_genome_Bacillus_subtilis_complete_genome_BS.pilon.polished.v3.ST170922
+2940177 2950430
+2950632 2950733
+2951100 2955757

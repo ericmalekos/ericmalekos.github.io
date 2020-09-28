@@ -1,0 +1,9 @@
+Assemblies                               assembly
+Bacillus_subtilis_complete_genome        2       
+Enterococcus_faecalis_complete_genome    1       
+Escherichia_coli_complete_genome         0       
+Lactobacillus_fermentum_complete_genome  2       
+Listeria_monocytogenes_complete_genome   0       
+Pseudomonas_aeruginosa_complete_genome   0       
+Salmonella_enterica_complete_genome      2       
+Staphylococcus_aureus_complete_genome    0       

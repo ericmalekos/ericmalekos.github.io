@@ -1,0 +1,105 @@
+/opt/conda/envs/env/opt/quast-5.0.2/metaquast.py assembly.fasta -r Bacillus_subtilis_complete_genome.fasta,Enterococcus_faecalis_complete_genome.fasta,Escherichia_coli_complete_genome.fasta,Lactobacillus_fermentum_complete_genome.fasta,Listeria_monocytogenes_complete_genome.fasta,Pseudomonas_aeruginosa_complete_genome.fasta,Salmonella_enterica_complete_genome.fasta,Staphylococcus_aureus_complete_genome.fasta --threads 8 -o ./quast_results
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-5.4.0-47-generic-x86_64-with-debian-10.3 (linux_64)
+  Python version: 3.6.12
+  CPUs number: 8
+
+Started: 2020-09-26 15:08:24
+
+Logging to /home/shared/quast_results/metaquast.log
+
+Reference(s):
+  Bacillus_subtilis_complete_genome.fasta ==> Bacillus_subtilis_complete_genome
+  Enterococcus_faecalis_complete_genome.fasta ==> Enterococcus_faecalis_complete_genome
+  Escherichia_coli_complete_genome.fasta ==> Escherichia_coli_complete_genome
+  Lactobacillus_fermentum_complete_genome.fasta ==> Lactobacillus_fermentum_complete_genome
+  Listeria_monocytogenes_complete_genome.fasta ==> Listeria_monocytogenes_complete_genome
+  Pseudomonas_aeruginosa_complete_genome.fasta ==> Pseudomonas_aeruginosa_complete_genome
+  Salmonella_enterica_complete_genome.fasta ==> Salmonella_enterica_complete_genome
+  Staphylococcus_aureus_complete_genome.fasta ==> Staphylococcus_aureus_complete_genome
+  All references were combined in combined_reference.fasta
+
+Contigs:
+  Pre-processing...
+  assembly.fasta ==> assembly
+
+Starting quast.py for the combined reference...
+(logging to /home/shared/quast_results/combined_reference/quast.log)
+
+Partitioning contigs into bins aligned to each reference..
+  processing assembly
+
+Run QUAST on different references in parallel..
+
+Starting quast.py for the contigs aligned to Bacillus_subtilis_complete_genome... (logging to /home/shared/quast_results/runs_per_reference/Bacillus_subtilis_complete_genome/quast.log)
+
+Starting quast.py for the contigs aligned to Enterococcus_faecalis_complete_genome... (logging to /home/shared/quast_results/runs_per_reference/Enterococcus_faecalis_complete_genome/quast.log)
+
+Starting quast.py for the contigs aligned to Escherichia_coli_complete_genome... (logging to /home/shared/quast_results/runs_per_reference/Escherichia_coli_complete_genome/quast.log)
+
+Starting quast.py for the contigs aligned to Lactobacillus_fermentum_complete_genome... (logging to /home/shared/quast_results/runs_per_reference/Lactobacillus_fermentum_complete_genome/quast.log)
+
+Starting quast.py for the contigs aligned to Listeria_monocytogenes_complete_genome... (logging to /home/shared/quast_results/runs_per_reference/Listeria_monocytogenes_complete_genome/quast.log)
+
+Starting quast.py for the contigs aligned to Pseudomonas_aeruginosa_complete_genome... (logging to /home/shared/quast_results/runs_per_reference/Pseudomonas_aeruginosa_complete_genome/quast.log)
+
+Starting quast.py for the contigs aligned to Salmonella_enterica_complete_genome... (logging to /home/shared/quast_results/runs_per_reference/Salmonella_enterica_complete_genome/quast.log)
+
+Starting quast.py for the contigs aligned to Staphylococcus_aureus_complete_genome... (logging to /home/shared/quast_results/runs_per_reference/Staphylococcus_aureus_complete_genome/quast.log)
+
+Starting quast.py for the contigs not aligned anywhere... (logging to /home/shared/quast_results/not_aligned/quast.log)
+
+2020-09-26 15:10:10
+Summarizing results...
+  Drawing # contigs metaQUAST summary plot...
+    saved to /home/shared/quast_results/summary/PDF/num_contigs.pdf
+  Drawing Largest contig metaQUAST summary plot...
+    saved to /home/shared/quast_results/summary/PDF/Largest_contig.pdf
+  Drawing Total length metaQUAST summary plot...
+    saved to /home/shared/quast_results/summary/PDF/Total_length.pdf
+  Drawing Largest alignment metaQUAST summary plot...
+    saved to /home/shared/quast_results/summary/PDF/Largest_alignment.pdf
+  Drawing Total aligned length metaQUAST summary plot...
+    saved to /home/shared/quast_results/summary/PDF/Total_aligned_length.pdf
+  Drawing Total length (>= 1000 bp) metaQUAST summary plot...
+    saved to /home/shared/quast_results/summary/PDF/Total_length_(ge_1000_bp).pdf
+  Drawing Total length (>= 10000 bp) metaQUAST summary plot...
+    saved to /home/shared/quast_results/summary/PDF/Total_length_(ge_10000_bp).pdf
+  Drawing Total length (>= 50000 bp) metaQUAST summary plot...
+    saved to /home/shared/quast_results/summary/PDF/Total_length_(ge_50000_bp).pdf
+  Drawing # misassemblies metaQUAST summary plot...
+    saved to /home/shared/quast_results/summary/PDF/num_misassemblies.pdf
+  Drawing metaQUAST summary misassemblies plot for assembly...
+    saved to /home/shared/quast_results/summary/PDF/assembly_misassemblies.pdf
+  Drawing Misassembled contigs length metaQUAST summary plot...
+    saved to /home/shared/quast_results/summary/PDF/Misassembled_contigs_length.pdf
+  Drawing # mismatches per 100 kbp metaQUAST summary plot...
+    saved to /home/shared/quast_results/summary/PDF/num_mismatches_per_100_kbp.pdf
+  Drawing # indels per 100 kbp metaQUAST summary plot...
+    saved to /home/shared/quast_results/summary/PDF/num_indels_per_100_kbp.pdf
+  Drawing # N's per 100 kbp metaQUAST summary plot...
+    saved to /home/shared/quast_results/summary/PDF/num_Ns_per_100_kbp.pdf
+  Drawing Genome fraction (%) metaQUAST summary plot...
+    saved to /home/shared/quast_results/summary/PDF/Genome_fraction.pdf
+  Drawing Duplication ratio metaQUAST summary plot...
+    saved to /home/shared/quast_results/summary/PDF/Duplication_ratio.pdf
+  Drawing NGA50 metaQUAST summary plot...
+    saved to /home/shared/quast_results/summary/PDF/NGA50.pdf
+  Drawing LGA50 metaQUAST summary plot...
+    saved to /home/shared/quast_results/summary/PDF/LGA50.pdf
+
+  Text versions of reports and plots for each metric (for all references and assemblies) are saved to /home/shared/quast_results/summary/
+  Icarus (contig browser) is saved to /home/shared/quast_results/icarus.html
+  Extended version of HTML-report (for all references and assemblies) is saved to /home/shared/quast_results/report.html
+
+MetaQUAST finished.
+  Log is saved to /home/shared/quast_results/metaquast.log
+
+Finished: 2020-09-26 15:10:15
+Elapsed time: 0:01:51.729285
+Total NOTICEs: 12; WARNINGs: 10; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

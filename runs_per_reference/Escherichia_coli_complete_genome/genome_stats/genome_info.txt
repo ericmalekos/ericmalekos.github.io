@@ -1,0 +1,15 @@
+reference chromosomes:
+	Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_plasmid (total length: 110007 bp, total length without N's: 110007 bp, maximal covered length: 110007 bp)
+	Escherichia_coli_complete_genome_Escherichia_coli_complete_genome_Escherichia_coli_chromosome (total length: 4765434 bp, total length without N's: 4765434 bp, maximal covered length: 4765434 bp)
+
+total genome size: 4875441
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+assembly_to_Escherichia_ | 100.000   | 1.027       | 0         | -         | -         | -         | -         |
